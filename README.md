@@ -26,9 +26,6 @@ Laravel Framework, Mysql ,Redis and AWS deployment. Design, develop and maintain
 # My Certificate
 AWS Certified Solutions Architect – Associate(https://www.credly.com/badges/3a68f76d-6597-482a-b786-47c125be6545/public_url)
 
-# My CV
-- Download (https://drive.google.com/file/d/1-PSebxY3sYwRFPbf2NDqFEeKlui8DXH-/view?usp=sharing)
-
 # External Links
 
 - LinkedIn [https://www.linkedin.com/in/thatryanzeng/]
